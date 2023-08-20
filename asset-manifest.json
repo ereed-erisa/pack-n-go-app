@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pack-n-go-app/static/css/main.2e10ade7.css",
+    "main.js": "/pack-n-go-app/static/js/main.cae50c70.js",
+    "index.html": "/pack-n-go-app/index.html",
+    "main.2e10ade7.css.map": "/pack-n-go-app/static/css/main.2e10ade7.css.map",
+    "main.cae50c70.js.map": "/pack-n-go-app/static/js/main.cae50c70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e10ade7.css",
+    "static/js/main.cae50c70.js"
+  ]
+}
